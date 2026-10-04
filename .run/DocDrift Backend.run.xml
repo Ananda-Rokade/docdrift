@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DocDrift Backend" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.docdrift.DocDriftApplication" />
+    <module name="docdrift" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+    <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=demo" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
